@@ -4,9 +4,11 @@ Easily configure your terminal without recreating settings. These just happen to
 be my preferences
 
 # How to install?
-You can run install.sh to install the required programs/files and set the symlinks.
+You can run install.sh to install the required programs/files and set the symlinks. Font needs to be set manually
 
-# What to install/download?
+To edit Powerlevel10k type "p10k configure"
+
+# What gets installed/downloaded?
 Install: tmux, zsh, oh-my-zsh, JetBrains Mono font
 
 tmux: sudo apt install tmux
