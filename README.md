@@ -3,6 +3,9 @@ dotfiles folder for configurations. Create symlinks to the files in .dotfiles.
 Easily configure your terminal without recreating settings. These just happen to 
 be my preferences
 
+#How to install?
+You can run install.sh to install the required programs/files and set the symlinks.
+
 # What to install/download?
 Install: tmux, zsh, oh-my-zsh, JetBrains Mono font
 
