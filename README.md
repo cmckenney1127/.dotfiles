@@ -22,11 +22,11 @@ JetBrains Mono font: [Download Link](https://download.jetbrains.com/fonts/JetBra
 # Symlink
 Create symlink: ln -s /path/to/original_file_or_directory /path/to/new_symlink
 
-tmux: ln -s .dotfiles/.tmux .tmux
+tmux: ln -s ~/.dotfiles/.tmux ~/.tmux
 
-tmux.conf: ln -s .dotfiles/.tmux.conf .tmux.conf
+tmux.conf: ln -s ~/.dotfiles/.tmux.conf ~/.tmux.conf
 
-zsh: ls -s .dotfiles/.zshrc .zshrc
+zsh: ls -s ~/.dotfiles/.zshrc ~/.zshrc
 
-oh-my-zsh: ln -s .dotfiles/.oh-my-zsh .oh-my-zsh
+oh-my-zsh: ln -s ~/.dotfiles/.oh-my-zsh ~/.oh-my-zsh
 
